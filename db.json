@@ -59,7 +59,7 @@
         },
         {
             "id": 22,
-            "nombre": "remera Termica Hombre",
+            "nombre": "Remera Termica Hombre",
             "categoria": "ROPA",
             "precio": 5500,
             "stock": 10,
@@ -159,7 +159,7 @@
             "categoria": "CALZADO",
             "precio": 30000,
             "stock": 10,
-            "img": "https://home.ripley.com.pe/Attachment/WOP_5/2026233439552/2026233439552_2.jpg"
+            "img": "https://my-json-server.typicode.com/Correa7/Api/data"
         },
         {
             "id": 11,
